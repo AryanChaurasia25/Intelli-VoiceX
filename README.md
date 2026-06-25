@@ -102,20 +102,6 @@ python main.py
 * Implement AI-powered command processing.
 * Improve user productivity through automation.
 
-## 📸 Screenshots
-
-### Home Interface
-
-```text
-Screenshot 2026-06-26 001343.png
-```
-
-### AI Response Interface
-
-```text
-Screenshot 2026-06-26 001356.png
-```
-
 ## 🔮 Future Enhancements
 
 * Integration with Large Language Models (LLMs)
