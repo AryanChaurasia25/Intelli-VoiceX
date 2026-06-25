@@ -37,13 +37,13 @@ The project demonstrates the integration of Artificial Intelligence, Speech Reco
 
 ### Programming Language
 
-* Python
+* JavaScript
+* Css
+* Html
 
 ### Libraries & Frameworks
 
 * SpeechRecognition
-* Pyttsx3
-* PyAudio
 * OS Module
 * Webbrowser Module
 
@@ -59,11 +59,11 @@ AI-Voice-Assistant/
 
 ├── assets/
 
-├── screenshots/
+├── sty/
 
 ├── src/
 
-├── main.py
+├── main.html
 
 ├── requirements.txt
 
